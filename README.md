@@ -1,0 +1,1 @@
+# qgis-portable-by-diogo-vicente
