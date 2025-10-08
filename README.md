@@ -49,7 +49,3 @@ Mais informações:
 - Tamanho aproximado: **1.1 GB (ZIP)**  
 - Data de publicação: **Outubro 2025**
 
----
-
-Se encontrar algum problema ou quiser deixar sugestões, use a secção **Issues** deste repositório.  
-Obrigado por apoiar o software livre e a comunidade QGIS! 🌍
